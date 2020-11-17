@@ -1,0 +1,10 @@
+Para probar que el servicio esté arriba:
+
+http://localhost:9101/eurekaServ/webapi/articulos
+http://localhost:9101/eurekaServ/webapi/articulos/C-100P
+
+http://localhost:8080/rest02/webapi/articulos
+
+Para checar si el servicio se ha registrado en eureka:
+
+http://localhost:8761
